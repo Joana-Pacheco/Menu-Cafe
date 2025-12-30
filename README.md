@@ -39,7 +39,7 @@ Uso de imagens com texto alternativo (alt) pensando em acessibilidade.
 🌐 Projeto publicado
 
 🔗 Acesse o site:
-https://joana-pacheco.github.io/meu-site-freecodecamp/
+https://joana-pacheco.github.io/Menu-Cafe/
 
 📁 Repositório
 
