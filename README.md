@@ -44,7 +44,7 @@ https://joana-pacheco.github.io/Menu-Cafe/
 📁 Repositório
 
 📌 Código-fonte no GitHub:
-https://github.com/Joana-Pacheco/meu-site-freecodecamp
+https://github.com/Joana-Pacheco/Menu-Cafe
 
 🚀 Próximos passos
 
